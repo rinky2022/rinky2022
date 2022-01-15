@@ -4,6 +4,7 @@
 
 I'm
 Full Stack Web Developer
+
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs,.Net), design (working closely with designers), front-end development (React, Angular8, ReactJs, HTML5, CSS3, Javascript, Responsive), Server Administrator(AWS Azure),database(MongoDB,Mysql), CI/CD(Docker)
 
 
